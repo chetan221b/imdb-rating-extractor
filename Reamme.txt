@@ -1,0 +1,5 @@
+IMDB rating extrator:
+it uses website scrapping technique to extract the rating of a movie or a serial from website www.imdb.com.You can use upto 5 keys to search from the database or simply edit source code  
+1. Install BeautifulSoup by migrating to directory and using command:
+		"~#python setup.py install"
+2. then simply run imdb python by "~#python imdb.py" on previos directory
